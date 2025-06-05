@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html>
- <head>
- </head>
-<body>
 
 
-<h2>Bank Marketing (with social/economic context)</h2>
+<h2>Bank Marketing</h2>
 
-:star: Star us on GitHub — it helps!
 
-<p align="center"><img src="https://github.com/RistovaIvona/Bank-Marketing/blob/master/documentation/gvideo.gif" /></p>
-<h3>Introduction </h3>
 
-<small><p>
- <i>"Data-driven marketing is the engine behind improved marketing results and it creates measurable internal accountability as marketers become more effective in planning, executing and proving the value of their work" - Lisa Arthur </i>
- 
-Over the past decade, information consumption has drastically shot up, generating million terabytes of data every single day. For marketers, this amount of data is a gold mine. If this data could be properly processed and analyzed, it can deliver valuable insights. Data Science is a field that extracts meaningful information from data and helps marketers in discerning the right insights.These insights can be on various marketing aspects such as customer intent, experience, behavior, etc that would help them in efficiently optimizing their marketing strategies and derive maximum revenue.</p>
 
 <p>This project is about marketing campaign of Portuguese bank for term deposits with data of contacted customers in period of 2008 to 2010 and their respond of the calls. The data has 41188 observations of calls with 20 customer’s demographic and transaction features each. Analyzing the customers’ features in correlation with their responses of the calls should lead to identify type of customers which are more likely to make term deposits.
 
@@ -107,26 +95,6 @@ In our case the models with parameter adjustment give some slight improvement le
 <img width="40%" height="40%" src="https://github.com/RistovaIvona/BankClassification/blob/master/documentation/classification_report.PNG"></a></p>
 
 :star: To see all the models that we have tried please read our file <a href="https://github.com/RistovaIvona/BankClassification/blob/master/Models.ipynb"><b>"Models"</b></a>.
-
-## Conclusions and recommendations for future research
-
-<p>
-First when you get the datase, it is really important to read and investigate different kind of  papers with marketing analysis. These are links of papers that we have read and helped us: 
- <ul>
-   <li><a href="http://media.salford-systems.com/video/tutorial/2015/targeted_marketing.pdf">http://media.salfordsystems.com/video/tutorial/2015/targeted_marketing.pdf</a></li>
-   <li><a href="https://pdfs.semanticscholar.org/1999/417377ec21ecf7f7f55af62975065f785fb2.pdf">https://pdfs.semanticscholar.org/1999/417377ec21ecf7f7f55af62975065f785fb2.pdf</a></li>
-   <li><a href="http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#">http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#</a></li>
-   <li><a href="https://github.com/yfsui/Bank-Telemarketing-ML-Project/blob/master/Portuguese%20Bank%20Telemarketing%20Analysis.ipynb"></a>https://github.com/yfsui/Bank-Telemarketing-ML-Project/blob/master/Portuguese%20Bank%20Telemarketing%20Analysis.ipynb</li>
-   <li><a href="https://github.com/naveen-chauhan/Loan-Prediction-Classification/blob/master/Loan%2BPrediction.ipynb">https://github.com/naveen-chauhan/Loan-Prediction-Classification/blob/master/Loan%2BPrediction.ipynb</a></li>
- </ul>
-
-Second, when you will load the data you need to understand each attribute meaning. The meaning of the feature is essential to have view how the feature impact on the data and what you can expect.
-
-Third, clean data. We decided to replace the 'unknown' data. There are so many preprocess ways to clean and it is your way  to decide what you will do, but you have to be sure that the data are good enough for modeling. For this data set preprocessing and feature understanding is the most important step.
-And last, try diffrent kind of models and compare the results and time.
- 
-As George E. P. Box said: “all models are wrong, but some are useful”.
-</p>
 
   
 </body>

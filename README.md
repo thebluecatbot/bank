@@ -1,11 +1,11 @@
 
 
-<h2>Bank Marketing</h2>
+<h2>Bank Marketing Conversion</h2>
 
 
 
 
-<p>This project is about marketing campaign of Portuguese bank for term deposits with data of contacted customers in period of 2008 to 2010 and their respond of the calls. The data has 41188 observations of calls with 20 customer’s demographic and transaction features each. Analyzing the customers’ features in correlation with their responses of the calls should lead to identify type of customers which are more likely to make term deposits.
+<p>This project focuses on the conversion rate of customers for a particular bank marketing.It is about marketing campaign of Portuguese bank for term deposits with data of contacted customers in period of 2008 to 2010 and their respond of the calls. The data has 41188 observations of calls with 20 customer’s demographic and transaction features each. Analyzing the customers’ features in correlation with their responses of the calls should lead to identify type of customers which are more likely to make term deposits.
 
 The aim of the project is to build a model which will predict the future response of new targeted customer.
 The project is done in few phases:
